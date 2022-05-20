@@ -1,3 +1,4 @@
+![alt text](https://i.imgur.com/4Usljnf.png)
 # EduLadder (ELADR):  A Proof of Contribution Token
 
 White Paper Version 1.02 | 22-05-19
