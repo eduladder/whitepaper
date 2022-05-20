@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/4Usljnf.png)
+![alt text](https://ipfs.io/ipfs/QmZp8PEDfMyJe9YaRFEzBsQuCKYcGdYue4Z5c19SiCidKt/eladr-logo-05.png)
 # EduLadder (ELADR):  A Proof of Contribution Token
 
 White Paper Version 1.02 | 22-05-19
