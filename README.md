@@ -82,3 +82,6 @@ Survey user community for advanced feature requests.
 (For Github Users: If you’d like to contribute to this document please do pull requests to this repo, if they are merged, you will be rewarded in ELADR tokens)
 
 Continue to incrementally test and implement advanced features listed above, please check back here for updates. 
+
+Cardano explorer.
+https://cardanoscan.io/token/2d420236ffaada336c21e3f4520b799f6e246d8618f2fc89a4907da64564756c6164646572546f6b656e
