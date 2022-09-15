@@ -1,7 +1,7 @@
 ![alt text](https://i.imgur.com/PQieluo.png)
 # EduLadder (ELADR):  A Proof of Contribution Token
 
-White Paper Version 1.02 | 22-05-19
+White Paper Version 1.03 | 22-09-15
 
 # Disclaimer
 
@@ -55,7 +55,7 @@ Private Pre-Sale Price 1 ELADR = .001(Ps) INR
 
 Reserve/Air Drops: 33,975,000,002 (75%)
 
-Private Pre-Sale Cap: 11,025,000,001 (25%)
+Development Fund: 11,025,000,001 (25%)
 
  ● No public sale, No ICO (or any type of public offering)
 
@@ -63,23 +63,29 @@ Private Pre-Sale Cap: 11,025,000,001 (25%)
 
 # Phase 1 (2022 Q2)
 
+Research and development of protocol stack design
+
 Mint token
 
 # Phase 2 (2022 Q3)
 
-Beta Testing Integration of User Internal Wallets on Development Server
+Alpha testing
 
 # Phase 3 (2022 Q4)
 
-Launch Integrated User Internal Wallets on Production Server
+Beta Testing on Testnet/Development Server
 
-Beta Testing Layer 2 Scalability Solutions
+Community building
 
 # Phase 4 (2023 Q1)
 
-Survey user community for advanced feature requests. 
+Integrate layer 2 Cardano scaling solutions pending Hydra upgrades
 
-(For Github Users: If you’d like to contribute to this document please do pull requests to this repo, if they are merged, you will be rewarded in ELADR tokens)
+#Phase 5 (2023 Q2) 
+
+Mainnet Launch, pending successful Hydra integration
+
+Survey user community for advanced feature requests 
 
 Continue to incrementally test and implement advanced features listed above, please check back here for updates. 
 
