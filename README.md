@@ -57,7 +57,6 @@ Reserve/Air Drops: 33,975,000,002 (75%)
 
 Development Fund: 11,025,000,001 (25%)
 
- ● No public sale, No ICO (or any type of public offering)
 
 # Road Map 
 
@@ -81,7 +80,7 @@ Community building
 
 Integrate layer 2 Cardano scaling solutions pending Hydra upgrades
 
-#Phase 5 (2023 Q2) 
+# Phase 5 (2023 Q2) 
 
 Mainnet Launch, pending successful Hydra integration
 
