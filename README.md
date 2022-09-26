@@ -51,8 +51,6 @@ Issuing entity: EduLadder.com
 
 Total Supply:  45,000,000,003.000000 ELADR 
 
-Private Pre-Sale Price 1 ELADR = .001(Ps) INR
-
 Reserve/Air Drops: 33,975,000,002 (75%)
 
 Development Fund: 11,025,000,001 (25%)
